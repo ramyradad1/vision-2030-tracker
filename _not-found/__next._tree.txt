@@ -1,0 +1,2 @@
+:HL["/vision-2030-tracker/_next/static/chunks/5d28f86046f8ebd9.css","style"]
+0:{"buildId":"KXGduVmYXqQeBbH2vJ5iD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
